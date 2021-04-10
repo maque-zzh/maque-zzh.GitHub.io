@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maque-zzh.github.io</id>
+    <title>DeBug雀</title>
+    <updated>2021-04-10T07:48:10.890Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://maque-zzh.github.io"/>
+    <link rel="self" href="https://maque-zzh.github.io/atom.xml"/>
+    <subtitle>天空是蔚蓝色 窗外有千纸鹤（</subtitle>
+    <logo>https://maque-zzh.github.io/images/avatar.png</logo>
+    <icon>https://maque-zzh.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, DeBug雀</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://maque-zzh.github.io/test/</id>
+        <link href="https://maque-zzh.github.io/test/">
+        </link>
+        <updated>2021-04-10T07:46:18.000Z</updated>
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1833805540&auto=1&height=66"></iframe>]]></content>
+    </entry>
+</feed>
