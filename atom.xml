@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maque-zzh.github.io</id>
     <title>DeBug雀</title>
-    <updated>2021-04-10T13:12:49.151Z</updated>
+    <updated>2021-04-10T14:52:42.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maque-zzh.github.io"/>
     <link rel="self" href="https://maque-zzh.github.io/atom.xml"/>
@@ -11,11 +11,23 @@
     <icon>https://maque-zzh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, DeBug雀</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://maque-zzh.github.io/test/</id>
-        <link href="https://maque-zzh.github.io/test/">
+        <title type="html"><![CDATA[班主任的权利怎会如此之大？【视频文字稿】]]></title>
+        <id>https://maque-zzh.github.io/1/</id>
+        <link href="https://maque-zzh.github.io/1/">
         </link>
-        <updated>2021-04-10T07:46:18.000Z</updated>
-        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1833805540&auto=1&height=66"></iframe>]]></content>
+        <updated>2021-04-10T13:24:04.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>BGM：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1833805536&auto=1&height=66"></iframe>
+<!-- more -->
+<pre><code>在本段视频中 我将会介绍常州市龙城初级中学 某某班主任是如何违宪地强制学生退出由同学组建的同学班级群（以下简称班级群）
+2020年11月 因部分同学在班级群打语音时发生口角，致使第二天在校中再次发生口角，且有肢体冲突存在。当日，班主任处理时未提及班级群。
+2021年1月 期末考试第二天，当日要求我们在午休期间，大部分同学站立，并提及班级群，以“影响学习，不利于交流”为由，并以联系家长为要挟，要求时任群主解散群。当日晚，班级群解散。由于各种各样的原因，本人于当日再次建立班级群。
+2021年3月 因班级群内连续出现两次打语音，由于“磕CP”的原因，在语音中产生口角，致使在校期间发生口角与肢体冲突。当日，班主任处理时，提及班级群，再次以“影响学习”与部分“莫须有”的理由“建议”解散班级群。当日本人未作任何措施。
+2021年4月4日至9日期间 因3位同学在自行建立的小群中玩“真心话大冒险”，一位同学“大冒险”时，被要求给男同学发送QQ情侣空间申请，并将发送图片给予其他两位同学。由于两位同学的广泛传播，致使班中大部分同学知晓此事。7日，因某同学举报，班主任知晓此事。当日，班主任利用上课时间，进行对个别同学问询。当日班会课时，班主任再次要求解散班级群，并伴有“你要是不解散你就来当这个班主任啊？”的言论。9日下午第三节课时，班主任再次要求班级同学退群，并有“找家长”的威胁性言论。
+《中华人民共和国宪法》第四十条规定：中华人民共和国公民的通信自由和通信秘密受法律的保护，除因国家安全或者追查刑事犯罪的需要，由公安机关或者检察机关依照法律规定的程序对通信进行检查外，任何组织或者个人不得以任何理由侵犯公民的通信自由和通信秘密。
+我不明白是谁给了班主任这么大的权力违宪地要求我们关闭QQ班级群。
+有人说学生是弱势群体，事实证明确实如此。学校禁止携带电子产品，直接宣告了无法取证这一问题。投诉无门，反抗无效，希望更多人注意到这一点吧。感谢各位。</code></pre>
+]]></content>
     </entry>
 </feed>
